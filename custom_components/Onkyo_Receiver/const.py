@@ -1,0 +1,1 @@
+DOMAIN = "Onkyo_Receiver"
